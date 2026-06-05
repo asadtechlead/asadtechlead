@@ -49,8 +49,6 @@ I'm a software engineer and team lead from Lahore, Pakistan. I started as a fron
 
 <div align="center">
 
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadtechlead&show_icons=true&hide_border=true&bg_color=0B1020&title_color=5B8DEF&text_color=A9B6D6&icon_color=34D8C6)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadtechlead&layout=compact&hide_border=true&bg_color=0B1020&title_color=5B8DEF&text_color=A9B6D6)
 
 **📺 I share simple, practical videos on AI, web development & security — [subscribe on YouTube](https://www.youtube.com/@asadtechlead)**
 
