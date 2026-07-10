@@ -27,6 +27,25 @@ I'm a software engineer and team lead from Lahore, Pakistan. I started as a fron
 | 🧾 | **[InBill](https://inbill.net)** | Free invoice software & AI invoice generator for freelancers — **you talk, it makes the invoice**. <br/>[Website](https://inbill.net) · [Google Play](https://play.google.com/store/apps/details?id=net.inbill) |
 | 🎡 | **[KidSpin](https://kidspin.zaions.com)** | Bilingual (English + Urdu) preschool learning app — ABC, 123, alif bay pay, phonics & mini-games for ages 2–7. Free, ad-light, no login. <br/>[Website](https://kidspin.zaions.com) · [Google Play](https://play.google.com/store/apps/details?id=com.asadtechlead.kidspin) |
 
+
+## 🧰 Free AI tools I built
+
+No signup, 100% in your browser, nothing uploaded — each hands you copy-paste prompts for your own ChatGPT/Claude:
+
+| Tool | What it does |
+|---|---|
+| **[ATS Résumé Checker](https://aitools177061779.z13.web.core.windows.net/ats-resume-checker/)** | Score your résumé against any job description — keyword match %, missing keywords, format warnings |
+| **[Small-Business Prompt Builder](https://aitools177061779.z13.web.core.windows.net/small-business-ai/)** | Pick your business + task → ready-to-paste AI prompt for marketing, email, reviews, follow-ups |
+| **[Faceless Video Generator](https://aitools177061779.z13.web.core.windows.net/faceless-video-generator/)** | Viral hooks, video ideas, script scaffold + the 2026 AI-video tool stack for your niche |
+
+## 🎓 Course & digital products
+
+- **Break Into Tech with AI** — zero to your first tech job, with AI as your tutor and **weekly live classes with me**. Self-paced chapters + slides + real-world portfolio projects. *(launching on [my Gumroad](https://asadtechlead.gumroad.com))*
+- **[The AI Job-Search System](https://asadtechlead.gumroad.com/l/qrzesv)** — beat the ATS & AI interviews, by the makers of Gaugely ($39)
+- **[Small-Business AI System](https://asadtechlead.gumroad.com/l/ysuned)** — 50+ prompts & weekly AI workflows ($49)
+- **[AI Video Content System](https://asadtechlead.gumroad.com/l/wrkzx)** — faceless video start-to-upload ($39)
+- **[Everything on Gumroad →](https://asadtechlead.gumroad.com)** incl. 1:1 consultation
+
 ## 💼 Company work
 
 - **Croyten — Zenbee** (now): software architect & team lead — architecture, AI features, product decisions, delivery
