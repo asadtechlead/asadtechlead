@@ -34,9 +34,9 @@ No signup, 100% in your browser, nothing uploaded — each hands you copy-paste 
 
 | Tool | What it does |
 |---|---|
-| **[ATS Résumé Checker](https://aitools177061779.z13.web.core.windows.net/ats-resume-checker/)** | Score your résumé against any job description — keyword match %, missing keywords, format warnings |
-| **[Small-Business Prompt Builder](https://aitools177061779.z13.web.core.windows.net/small-business-ai/)** | Pick your business + task → ready-to-paste AI prompt for marketing, email, reviews, follow-ups |
-| **[Faceless Video Generator](https://aitools177061779.z13.web.core.windows.net/faceless-video-generator/)** | Viral hooks, video ideas, script scaffold + the 2026 AI-video tool stack for your niche |
+| **[ATS Résumé Checker](https://tools.zaions.com/ats-resume-checker/)** | Score your résumé against any job description — keyword match %, missing keywords, format warnings |
+| **[Small-Business Prompt Builder](https://tools.zaions.com/small-business-ai/)** | Pick your business + task → ready-to-paste AI prompt for marketing, email, reviews, follow-ups |
+| **[Faceless Video Generator](https://tools.zaions.com/faceless-video-generator/)** | Viral hooks, video ideas, script scaffold + the 2026 AI-video tool stack for your niche |
 
 ## 🎓 Course & digital products
 
