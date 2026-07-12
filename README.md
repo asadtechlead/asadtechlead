@@ -40,7 +40,7 @@ No signup, 100% in your browser, nothing uploaded — each hands you copy-paste 
 
 ## 🎓 Course & digital products
 
-- **Break Into Tech with AI** — zero to your first tech job, with AI as your tutor and **weekly live classes with me**. Self-paced chapters + slides + real-world portfolio projects. *(launching on [my Gumroad](https://asadtechlead.gumroad.com))*
+- **[Break Into Tech with AI](https://asadtechlead.gumroad.com/l/break-into-tech-with-ai)** — zero to your first tech job, with AI as your tutor and **weekly live classes with me**. 7 modules + slides + real-world portfolio projects, AI Job-Search System included ($79)
 - **[The AI Job-Search System](https://asadtechlead.gumroad.com/l/qrzesv)** — beat the ATS & AI interviews, by the makers of Gaugely ($39)
 - **[Small-Business AI System](https://asadtechlead.gumroad.com/l/ysuned)** — 50+ prompts & weekly AI workflows ($49)
 - **[AI Video Content System](https://asadtechlead.gumroad.com/l/wrkzx)** — faceless video start-to-upload ($39)
